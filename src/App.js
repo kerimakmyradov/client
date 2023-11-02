@@ -1,6 +1,10 @@
+import MeetingList from "./components/MeetingList";
+
 function App() {
   return (
-   <></>
+    <>
+      <MeetingList/>
+    </>
   );
 }
 
